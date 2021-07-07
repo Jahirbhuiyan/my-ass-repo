@@ -1,0 +1,79 @@
+body{
+    font-family: 'Kalam', cursive;
+}
+h1 span{
+    color: rgb(23, 185, 235);
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 2%;
+
+    
+    
+}
+.half-width img{
+    width: 80%;
+}
+.style{
+    margin-top: 5%;
+}
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(rgba(7, 211, 238, 0.959), rgb(188, 199, 36));
+    padding: 12px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 700;
+}
+.special{
+    margin-top: 20%;
+}
+
+.recipe-area{
+    display: flex;
+    align-content: center;
+
+}
+.item{
+    width: 30%;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    border: 12px;
+}
+.jahir{
+    width: 80%;
+padding: 25px;
+padding-bottom: 5px;
+}
+.item2{
+    width: 30%;
+   margin-top: 4%;
+   margin-left: 4%;
+   margin-right: 4%;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    border: 12px;
+}
+.view{
+    display: flex;
+}
+.background-color{
+    background-color: indigo;
+    color: white;
+    border-radius: 20px;
+}
+.dhaka{
+    color: red;
+}
+
+.Bangladesh{
+    background-image: url("images/bg1.png");
+    background-repeat: no-repeat;
+    margin: 0%;
+    background-size: 100%;
+}
